@@ -30,7 +30,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="5dp"
                 android:gravity="center"
-                android:text="News App"
+                android:text="Anurag News"
                 android:textColor="@color/white"
                 android:textSize="24sp" />
 
